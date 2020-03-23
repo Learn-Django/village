@@ -119,4 +119,3 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
 
 STATIC_URL = '/static/'
-STATICFILES_DIRS    = '/home/charles/project1/myproject/myapp/templates/static',
